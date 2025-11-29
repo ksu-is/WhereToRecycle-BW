@@ -50,6 +50,9 @@ I added two links for epa.gov where users can find information on recycling and 
 
 I realized none of my projectroadmap.md comments were committed, so I copied and pasted them all on VSCode today, and just added the dates of each.
 
+Nov 29
+I am researching again about http requests and using an api to link an input box on my app with an external website to input an item and return information to the user on where to recycle the item. I found coding information on Copilot Search to create the input box with flask forms, create the html page with the form's data, and create the api request. The website is called earth911.com. It requires me to get permission from the website to create an api to their website. I haven't gone through the process to try and get permission, because my app is just a project assignment and not going to be a real app, so I'm assuming they will say no.That's why I just have a link from my app to the website, so the user can just enter the item directly on earth911.com's input box.
+
 
 
 
