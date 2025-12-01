@@ -1,3 +1,3 @@
 # WhereToRecycle-BW  
-I am developing a recycling app in which the user inputs an item they want to recycle, and the app links the user to websites which provide information on where they can recycle the item. I also want to provide information on each item and the importance and local impact of recycling, possibly just linking the user to more websites with that information. 
-I'm planning to use the flask module in python to link the websites to the app. 
+I developed a recycling app in which the user inputs an item they want to recycle, and the app provides links to websites which provide information on how they can recycle the item, as well as a search function where the user inputs an item name and zip code to find information on where to recycle the item. I also provide information on the importance and local impact of recycling. 
+I'm using use the flask module in python to link the websites to the app. 
