@@ -53,6 +53,10 @@ I realized none of my projectroadmap.md comments were committed, so I copied and
 Nov 29
 I am researching again about http requests and using an api to link an input box on my app with an external website to input an item and return information to the user on where to recycle the item. I found coding information on Copilot Search to create the input box with flask forms, create the html page with the form's data, and create the api request. The website is called earth911.com. It requires me to get permission from the website to create an api to their website. I haven't gone through the process to try and get permission, because my app is just a project assignment and not going to be a real app, so I'm assuming they will say no.That's why I just have a link from my app to the website, so the user can just enter the item directly on earth911.com's input box.
 
+Nov 30
+I'm making the webpage look better by providing information to the user on recycling. I replaced a picture with a paragraph of recycling info on the webpage. I tried to use a different branch to try it out but it wouldn't seem to run without being committed to the main branch. I realized it wasn't running because I was trying to run the .html file instead of the .py file. My mistake.
+I then added h4 styling to css and added recycling info from the epa.gov website to WhereToRecycle.html. The webpage looks a lot better, and the user can get information on recycling before they click the link to search for where to recycle their item.
+
 
 
 
