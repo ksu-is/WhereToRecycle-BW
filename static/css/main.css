@@ -71,6 +71,14 @@ h3 {
   color: rgb(14,9,9);
 }
 
+h4 {
+  font-size: 1.7em;
+  font-weight: 100;
+  margin-top: 20px;
+  text-align: center;
+  letter-spacing: -1px;
+  color: rgb(57, 106, 235);
+}
 .menu {
   float: right;
   margin-top: 8px;
