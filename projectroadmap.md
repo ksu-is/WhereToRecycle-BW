@@ -62,4 +62,4 @@ I deleted one link to the epa.gov recycling basics and benefits webpage, because
 I finished the app, and it looks good. A user would find valuable information and links to reputable websites where they can learn where and how to recycle items they're interested in recycling.
 I updated the Sprint 3 check boxes to show I've completed all of Sprint 3, including the PowerPoint Splash Screen slide. 
 
-
+I noticed the title of one of the website links was not accurate and some words needed to be capitalized, so I updated the WhereToRecycle.html webpage, took a new screenshot, and updated the PPT slide. I uploaded a new slide on D2L and on the GitHub repository.
