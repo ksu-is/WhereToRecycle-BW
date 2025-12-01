@@ -21,15 +21,15 @@ Sprint 2:
 -[ x ] Track your progress on planned and emerging tasks in your projectroadmap.md document.
 
 Sprint 3:
--[ ] Make at least 6 small updates in repository and commit changes
--[ ] Do this in Github Desktop
--[ ] Each commit should include a comment that explains what you did. The comment must be specific.
--[ ] Create a PowerPoint slide introducing your project and upload it.
+-[ x ] Make at least 6 small updates in repository and commit changes
+-[ x ] Do this in Github Desktop
+-[ x ] Each commit should include a comment that explains what you did. The comment must be specific.
+-[ x ] Create a PowerPoint slide introducing your project and upload it.
 Include this information:
--[ ] List your project team members.
--[ ] Show the title of your project.
--[ ] Show a tag line that introduces the main concept of what it does/will do.
--[ ] Show 1-2 screenshots or pictures demonstrating the idea or parts (optional) Each person must upload a PPT slide in D2L. Each team must ensure there is a copy in their Github repository so that future coders can quickly grasp the idea.
+-[ x ] List your project team members.
+-[ x ] Show the title of your project.
+-[ x ] Show a tag line that introduces the main concept of what it does/will do.
+-[ x ] Show 1-2 screenshots or pictures demonstrating the idea or parts (optional) Each person must upload a PPT slide in D2L. Each team must ensure there is a copy in their Github repository so that future coders can quickly grasp the idea.
 
 Nov 15, 2025
 I've been a bit overwhelmed this week figuring out where to start. I've been researching how to create an app with flask on Github to help understand what I need to do to start, but I haven't found anything helpful (except from our class). I figured out how to start the code by creating a file called app.py in the WhereToRecycle-BW repository in VSCode. I read over the information on D2L about importing modules, but flask isn't importing, so I'm re-watching the Project Demo: Flask video to get it started.
@@ -57,6 +57,9 @@ Nov 30
 I'm making the webpage look better by providing information to the user on recycling. I replaced a picture with a paragraph of recycling info on the webpage. I tried to use a different branch to try it out but it wouldn't seem to run without being committed to the main branch. I realized it wasn't running because I was trying to run the .html file instead of the .py file. My mistake.
 I then added h4 styling to css and added recycling info from the epa.gov website to WhereToRecycle.html. The webpage looks a lot better, and the user can get information on recycling before they click the link to search for where to recycle their item.
 
-
+Dec 1
+I deleted one link to the epa.gov recycling basics and benefits webpage, because I put the info from the page on my app webpage. The info is public domain. I added some more recycling info from the epa.gov website to WhereToRecycle.html. 
+I finished the app, and it looks good. A user would find valuable information and links to reputable websites where they can learn where and how to recycle items they're interested in recycling.
+I updated the Sprint 3 check boxes to show I've completed all of Sprint 3, including the PowerPoint Splash Screen slide. 
 
 
