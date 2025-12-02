@@ -63,3 +63,5 @@ I finished the app, and it looks good. A user would find valuable information an
 I updated the Sprint 3 check boxes to show I've completed all of Sprint 3, including the PowerPoint Splash Screen slide. 
 
 I noticed the title of one of the website links was not accurate and some words needed to be capitalized, so I updated the WhereToRecycle.html webpage, took a new screenshot, and updated the PPT slide. I uploaded a new slide on D2L and on the GitHub repository.
+
+I remembered that I could use a template for the PowerPoint, so I redid my Splash Screen slide to make it look more professional. It looks a lot better with more color and an added picture.
