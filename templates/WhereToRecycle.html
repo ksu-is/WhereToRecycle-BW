@@ -2,22 +2,25 @@
 <html>
   <head>
       <title>WhereToRecycle</title>
+      # import css stylesheet
       <link rel="stylesheet" href="{{url_for('static',filename='css/main.css')}}">
   </head>
   <body>
+  # create heading with recycling symbol and content
     <header>
       <div class="container">
         <h1 class="logo">Welcome to my WhereToRecycle App</h1>
        <div id="picture"><img src="../static/images/recyclingsymbol2.png" width="200" height="150" alt="recycling symbol" title="recycling symbol"></div>
       </div>
     </header>
+    
     <div class="container">
        <h1>Recycling<br>
         /rēˈsīk(ə)liNG/<br>
         noun<br>
         ▪ the action or process of converting waste into reusable material<br></h1>
     </div>
-
+# add content from epa.gov website-public domain info
 	<div>
 <h4>Recycling Basics and Benefits</h4>
 		 <p>Recycling is the process of collecting and processing materials that would otherwise be thrown away as trash and turning them into new products. Recycling can benefit your community, the economy, and the environment. Products should only be recycled if they cannot be reduced or reused.<br>
@@ -37,7 +40,7 @@
 		
 	
 			
-	  
+	  # add links to earth911.com search and epa.gov article
 <h3><a href="https:search.earth911.com">earth911.com Where to recycle items SEARCH</a></h3>
 <h3><a href="https://www.epa.gov/recycle/how-do-i-recycle-common-recyclables">epa.gov "How Do I Recycle Common Recyclables"</a></h3>
 
