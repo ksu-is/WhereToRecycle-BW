@@ -68,3 +68,4 @@ I remembered that I could use a template for the PowerPoint, so I redid my Splas
 
 Dec 14
 I updated app.py and WhereToRecycle.html to include comments.
+I added my presentation PowerPoint to GitHub.
